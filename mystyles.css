@@ -1,0 +1,40 @@
+body{
+   
+    background-color: rgba(244, 164, 96, 0.5)
+}
+
+.blue {
+    background-color: blue;
+}
+
+.red{
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+a:link {
+    color: white;
+    
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    color: black;
+    font-weight: 700;
+
+}
+
+
+li{
+    list-style: none;
+}
+
+.right {
+    text-align: right;
+}
